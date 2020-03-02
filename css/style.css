@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: #ffff;
+    font-weight: 700;
+}
+.navbar {
+    padding: 20px 0;
+    color: aqua;
+}
+.navbar-nav {
+
+text-transform: uppercase;
+}
+.icon{
+    font-size: 20px;
+    color: #ffff;
+}
+.icon-i{
+    font-size: 20px;
+    color: #ffff;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.banner{
+    background-image: url(../images/second.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.hg{
+    height: 600px;
+}
+.content{
+    text-align: center;
+}
+.content h1{
+    color: white;
+    font-size: 75px;
+}
+
+.btn-custom{
+    background: black;
+    margin: 20px;
+}
+.slider{
+    margin-top: 80px;
+}
+.slider h2{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.slider p{
+    margin-bottom: 30px;
+}
+.slider h3{
+    font-weight: 700;
+    margin-top: 40px;
+}
+.mountain{
+    background-image: url(../images/second.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height:90vh;
+    
+}
+.hh{
+    height:600px;
+}
+.mountain h2{
+    color: #ffff;
+    margin-top: 130px;
+font-size: 37px;
+margin-bottom: 30px;
+
+}
+.mountain p{
+    color: #ffff;
+    margin-bottom: 20px;
+}
+.feature{
+    margin-top: 100px;
+}
+.feature-content{}
+.feature-content h1{
+    font-weight: 700;
+}
+.icon-new{
+    font-size: 38px;
+}
+.image{}
+.image p{
+    margin-top: 20px;
+}
